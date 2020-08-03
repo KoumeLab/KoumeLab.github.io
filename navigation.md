@@ -17,6 +17,6 @@
   
 [日本語テスト](testjapanese.md)
 - - - -
-[gimmick:themechooser](Choose theme)
+[gimmick:themechooser](テーマを選んで)
 - - - -
 
