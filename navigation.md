@@ -25,6 +25,6 @@
 - - - -
 [English Page](EnglishSiteLab.md)
 - - - -
-[gimmick:theme](slate)
+[gimmick:themechooser](theme選択)
 - - - -
 
