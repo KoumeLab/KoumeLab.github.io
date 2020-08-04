@@ -1,1 +1,1 @@
-# 準備中 <a href="https://www.shinshu-u.ac.jp/faculty/agriculture/"><img src="ShinshuUnivAgrLogo.png" alt="信州大学農学部" width="164" height="37.4")</a>
+# 準備中 <a href="https://www.shinshu-u.ac.jp/faculty/agriculture/"><img src="/images/ShinshuUnivAgrLogo.png" alt="信州大学農学部" width="164" height="37.4")</a><a href="https://www.shinshu-u.ac.jp/institution/ibs/"><img src="/images/ShinshuUnivIBSlogo.png" alt="信州大学バイオメディカル研究所" width="164" height="30.0")</a>
