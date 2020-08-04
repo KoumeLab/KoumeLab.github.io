@@ -4,7 +4,7 @@
 [研究紹介](research.md)
 [業績/発表]()
 
-  * [論文](papar.md)
+  * [論文](paper.md)
   - - - -
   * [学会等発表](presentation.md)
   - - - -
