@@ -21,9 +21,9 @@
   * [2018](2018members.md)
   * [2017](2017members.md)
   
-[English Site](EnglishSiteLab.md)
-- - - -
 [アクセス/連絡先](access.md)
+- - - -
+[English Site](EnglishSiteLab.md)
 - - - -
 [gimmick:theme](slate)
 - - - -
