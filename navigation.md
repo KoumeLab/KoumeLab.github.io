@@ -1,22 +1,30 @@
-# らぼ
+# 機能分子設計学研究室
 
-[Home](home.md)
-[About](about.md)
-[Download](download.md)
-[Members]()
+[研究室紹介](home.md)
+[研究紹介](research.md)
+[業績/発表]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
+  * [論文](papare.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](subitem3.md)
+  * [学会等発表](presentation.md)
   - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](subitem3.md)
+  * [特許関連](patent.md)
   
-[日本語テスト](testjapanese.md)
+[メンバー]()
 - - - -
-[gimmick:themechooser](テーマを選んで)
+
+  * # 現在
+  * [2020](2020members.md)
+  - - - -
+  * # 過去のアーカイブ
+  * [2019](2019members.md)
+  * [2018](2018members.md)
+  * [2017](2017members.md)
+  
+[English Site](EnglishSiteLab.md)
+- - - -
+[アクセス/連絡先](access.md)
+- - - -
+[gimmick:theme](slate)
 - - - -
 
