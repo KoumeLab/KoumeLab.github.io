@@ -23,7 +23,7 @@
   
 [アクセス/連絡先](access.md)
 - - - -
-[English Site](EnglishSiteLab.md)
+[English Page](EnglishSiteLab.md)
 - - - -
 [gimmick:theme](slate)
 - - - -
