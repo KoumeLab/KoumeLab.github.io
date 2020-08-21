@@ -1,5 +1,5 @@
 # 2019年研究室メンバー
-<img src="/HP/images/2020PHOTOlabmembers.png" alt="2019年度写真" width="50.04" height="34.97">
+<img src="/HP/images/2020PHOTOlabmembers.png" alt="2019年度写真" width="500.4" height="349.7">
 ## 教員
 ### 梅澤公二（うめざわこうじ）
 - 履歴
