@@ -1,4 +1,4 @@
-# 学会等発表
+# 学会等発表 準備中
 
 ## 学会発表
 - Conformational analysis for Ubiquitin polymers upon phosphorylation, 第20回日本蛋白質科学会年会,オンライン開催,2020.7

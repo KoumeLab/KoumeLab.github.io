@@ -1,4 +1,5 @@
-# 論文 
+# 論文 準備中
+
 - Hyperstable De Novo Protein with a Dimeric Bisecting Topology,,254-259,ACS Synthetic Biology, 9(2),2020.1
 - Distinct cell proliferation, myogenic differentiation, and gene expression in skeletal muscle myoblasts of layer and broiler chickens,16527,Scientific Reports, 9(1);16527,2019.11
 - Berberine and palmatine inhibit the growth of human rhabdomyosarcoma cells,63-75,Bioscience Biotechnology and Biochemistry, 84:1,2019.9
